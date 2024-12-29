@@ -20,3 +20,17 @@ This project showcases my skills in:
   - Actual vs Predicted Prices
   - Residual Plots to analyze errors
   - Distribution of errors and cumulative error progression
+ 
+## Actual vs Predicted Prices
+![Actual vs Predicted Prices](actual_vs_predicted.png)
+
+## Residual Plot
+![Residual Plot](residual_plot.png)
+
+## Residual Distribution
+![Residual Distribution](residual_distribution.png)
+
+## Cumulative Error Plot
+![Cumulative Error Plot](cumulative_error_plot.png)
+
+
